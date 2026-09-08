@@ -1,2 +1,3 @@
 # Active-Directory-Attack-and-Defense-Lab
-Showcases Active Directory security, privilege escalation awareness, GPO hardening, and adversary emulation
+This builds off of a normal active directory virtual lab I have set up and focuses on attacking and defending a AD domain.
+
